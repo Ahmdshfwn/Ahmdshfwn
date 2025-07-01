@@ -14,8 +14,6 @@ Hi👋 I'm Ahmad Shafwan, <br>I'm a programmer who is still in the learning or <
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmdshfwn&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmdshfwn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](TETAP LAH BELAJAR SAMPAI KAPAN PUN)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ahmdshfwn&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
