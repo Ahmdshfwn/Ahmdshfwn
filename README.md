@@ -3,8 +3,8 @@
 # 💫 About Me:
 Hi👋 I'm Ahmad Shafwan, <br>I'm a programmer who is still in the learning or <br>development stage, not very good at <br>creating a program, I'm still learning a lot. Thank you 👌
 
-## 🌐 Socials:
-#[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdshfwnn) 
+# 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdshfwnn) 
 
 
 # 👨‍💻 Tech Stack:
