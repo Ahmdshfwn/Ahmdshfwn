@@ -1,4 +1,4 @@
-## Ngoding dulu yang penting Ngoding daripada ga Ngoding
+## Ngetik mulu, di bales mah kaga 😝
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdshfwnn) 
 
