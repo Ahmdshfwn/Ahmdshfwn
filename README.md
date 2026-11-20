@@ -1,4 +1,4 @@
-## Ngetik mulu, di bales mah kaga 😝
+## Ngetik sampe panjang emang bakalan di bales? 😝
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmdshfwnn) 
 
